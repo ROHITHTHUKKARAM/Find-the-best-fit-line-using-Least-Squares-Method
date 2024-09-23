@@ -40,6 +40,12 @@ for i in range(len(X)):
 m=num/denum
 ```
 
+
+
+
+
+
+
 ## Output:
 
 ![Screenshot 2024-08-22 092008](https://github.com/user-attachments/assets/759eff08-6bd7-48ea-b422-3bf7ab081ad0)
